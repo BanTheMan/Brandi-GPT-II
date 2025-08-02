@@ -1,2 +1,3 @@
 # Ignore personal dev notes
 instructions.md
+.venv
